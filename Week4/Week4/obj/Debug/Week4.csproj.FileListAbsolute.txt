@@ -1,0 +1,14 @@
+C:\Users\mrsom\source\repos\Week4\Week4\bin\Debug\Week4.exe.config
+C:\Users\mrsom\source\repos\Week4\Week4\bin\Debug\Week4.exe
+C:\Users\mrsom\source\repos\Week4\Week4\bin\Debug\Week4.pdb
+C:\Users\mrsom\source\repos\Week4\Week4\obj\Debug\Week4.csprojAssemblyReference.cache
+C:\Users\mrsom\source\repos\Week4\Week4\obj\Debug\Week4.Properties.Resources.resources
+C:\Users\mrsom\source\repos\Week4\Week4\obj\Debug\Week4.csproj.GenerateResource.cache
+C:\Users\mrsom\source\repos\Week4\Week4\obj\Debug\Week4.csproj.CoreCompileInputs.cache
+C:\Users\mrsom\source\repos\Week4\Week4\obj\Debug\Week4.exe
+C:\Users\mrsom\source\repos\Week4\Week4\obj\Debug\Week4.pdb
+C:\Users\mrsom\source\repos\Week4\Week4\obj\Debug\Week4.Form5.resources
+C:\Users\mrsom\source\repos\Week4\Week4\obj\Debug\Week4.Form1.resources
+C:\Users\mrsom\source\repos\Week4\Week4\obj\Debug\Week4.Form2.resources
+C:\Users\mrsom\source\repos\Week4\Week4\obj\Debug\Week4.Form3.resources
+C:\Users\mrsom\source\repos\Week4\Week4\obj\Debug\Week4.Form4.resources
