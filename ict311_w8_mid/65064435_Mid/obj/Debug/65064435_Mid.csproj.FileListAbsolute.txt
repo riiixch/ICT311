@@ -1,0 +1,11 @@
+C:\Users\mrsom\source\repos\65064435_Mid\65064435_Mid\bin\Debug\65064435_Mid.exe.config
+C:\Users\mrsom\source\repos\65064435_Mid\65064435_Mid\bin\Debug\65064435_Mid.exe
+C:\Users\mrsom\source\repos\65064435_Mid\65064435_Mid\bin\Debug\65064435_Mid.pdb
+C:\Users\mrsom\source\repos\65064435_Mid\65064435_Mid\obj\Debug\65064435_Mid.csprojAssemblyReference.cache
+C:\Users\mrsom\source\repos\65064435_Mid\65064435_Mid\obj\Debug\_65064435_Mid.Form1.resources
+C:\Users\mrsom\source\repos\65064435_Mid\65064435_Mid\obj\Debug\_65064435_Mid.Properties.Resources.resources
+C:\Users\mrsom\source\repos\65064435_Mid\65064435_Mid\obj\Debug\65064435_Mid.csproj.GenerateResource.cache
+C:\Users\mrsom\source\repos\65064435_Mid\65064435_Mid\obj\Debug\65064435_Mid.csproj.CoreCompileInputs.cache
+C:\Users\mrsom\source\repos\65064435_Mid\65064435_Mid\obj\Debug\65064435_Mid.exe
+C:\Users\mrsom\source\repos\65064435_Mid\65064435_Mid\obj\Debug\65064435_Mid.pdb
+C:\Users\mrsom\source\repos\65064435_Mid\65064435_Mid\obj\Debug\_65064435_Mid.Form2.resources

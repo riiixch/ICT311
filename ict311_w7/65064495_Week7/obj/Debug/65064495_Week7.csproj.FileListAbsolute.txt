@@ -1,0 +1,10 @@
+C:\Users\mrsom\source\repos\65064495_Week7\65064495_Week7\bin\Debug\65064495_Week7.exe.config
+C:\Users\mrsom\source\repos\65064495_Week7\65064495_Week7\bin\Debug\65064495_Week7.exe
+C:\Users\mrsom\source\repos\65064495_Week7\65064495_Week7\bin\Debug\65064495_Week7.pdb
+C:\Users\mrsom\source\repos\65064495_Week7\65064495_Week7\obj\Debug\65064495_Week7.csprojAssemblyReference.cache
+C:\Users\mrsom\source\repos\65064495_Week7\65064495_Week7\obj\Debug\_65064495_Week7.Form1.resources
+C:\Users\mrsom\source\repos\65064495_Week7\65064495_Week7\obj\Debug\_65064495_Week7.Properties.Resources.resources
+C:\Users\mrsom\source\repos\65064495_Week7\65064495_Week7\obj\Debug\65064495_Week7.csproj.GenerateResource.cache
+C:\Users\mrsom\source\repos\65064495_Week7\65064495_Week7\obj\Debug\65064495_Week7.csproj.CoreCompileInputs.cache
+C:\Users\mrsom\source\repos\65064495_Week7\65064495_Week7\obj\Debug\65064495_Week7.exe
+C:\Users\mrsom\source\repos\65064495_Week7\65064495_Week7\obj\Debug\65064495_Week7.pdb
